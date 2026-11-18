@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["6A4KXYS389.deepinteractionlab.trackypady.app"],
+        "components": [{ "/": "/trackypady/pair/" }]
+      }
+    ]
+  }
+}
