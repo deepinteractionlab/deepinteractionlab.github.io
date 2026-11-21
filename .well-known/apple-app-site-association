@@ -2,8 +2,15 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["6A4KXYS389.deepinteractionlab.trackypady.app"],
-        "components": [{ "/": "/trackypady/pair/" }]
+        "appIDs": [
+          "6A4KXYS389.com.deepinteractionlab.trackypady.app",
+          "6A4KXYS389.deepinteractionlab.trackypady.app"
+        ],
+        "components": [
+          {
+            "/": "/trackypady/pair/"
+          }
+        ]
       }
     ]
   }
